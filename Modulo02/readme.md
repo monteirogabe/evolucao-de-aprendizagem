@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-
+# Módulo 2
 ## Conteúdos a serem trabalhados nesse módulo:
 
 - Funções
@@ -29,4 +29,7 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-### Atualização no fim do módulo 2.
+- Aprendi como sao as bases de codigos, como é a parte que os usuarios não veem (backend) e como funciona os codigos em conjuntos.
+- Melhorei meu raciocinio logico para muitas coisas, perdi o medo de tentar pois é necessario errar para acertar.
+- Consegui codar varias vezes sem pensar muito e sem me culpar por não conseguir fazer de primeira.
+- Tive muitas duvidas sanadas porem mais curiosidade para entender como funciona tudo.
